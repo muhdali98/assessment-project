@@ -23,6 +23,7 @@ Before running the project, make sure you have the following installed:
 
 1. Run `npm install`
 2. Run `npm run dev`
+3. Open your browser and go to http://localhost:5173 (or the port shown in the terminal).
 
 ### Backend
 
